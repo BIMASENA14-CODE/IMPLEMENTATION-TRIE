@@ -2,7 +2,7 @@
 🛒 Autocomplete Pencarian Produk E-Commerce dengan Trie
 Proyek ini merupakan simulasi fitur pencarian otomatis (autocomplete) pada platform e-commerce. Tujuan utamanya adalah meningkatkan efisiensi pencarian produk dengan memberikan saran otomatis yang relevan saat pengguna mulai mengetik.
 
-Fitur ini dibangun dengan struktur data Trie, yang mampu menangani pencarian awalan (prefix) dengan cepat dan efisien, bahkan dalam jumlah data produk yang besar.
+Fitur ini dibangun dengan struktur data Trie, yang akan melakukan pencarian  berdasarkan awalan (prefix) dengan cepat dan efisien, bahkan dalam jumlah data produk yang besar.
 
 🔍 Apa Proyek Ini Sebenarnya?
 Proyek ini bertujuan untuk membuat ulang fitur autocomplete serupa seperti di Tokopedia, Shopee, dan e-commerce lainnya, tetapi dengan menggunakan struktur data Trie, bukan database tradisional atau metode pencarian biasa.
