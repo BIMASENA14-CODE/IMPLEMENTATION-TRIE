@@ -29,7 +29,7 @@ Struktur Trie divisualisasikan menggunakan graphviz, dibatasi hingga 40 node dan
 Pengguna memasukkan awalan kata, dan sistem langsung menampilkan daftar produk relevan yang cocok dengan awalan tersebut — seperti fitur pencarian otomatis pada e-commerce.
 
 ✅ Langkah yang Harus Dilakukan Pengguna
-Siapkan file data_produk (.csv atau .xlsx).
+Siapkan file data_produk saya gunakan sebagai dataset produk (.csv atau .xlsx).
 Jalankan TREE CLOUDE.ipynb di Jupyter Notebook / Google Colab.
 Ikuti langkah-langkah mulai dari membaca file, pembersihan teks, membentuk Trie, hingga mencoba fitur autocomplete.
 Masukkan awalan nama produk dan lihat hasil saran produk yang relevan.
